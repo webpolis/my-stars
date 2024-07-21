@@ -1,7 +1,6 @@
 | Name | Description | URL | Category |
 |------|-------------|-----|----------|
 | motion | Open source, production-ready animation and gesture library for React | https://github.com/framer/motion | React, Web Development |
-| github-stars-organizer | Organize your GitHub stars and store them in a repo. | https://github.com/rb81/github-stars-organizer | Productivity Tools |
 | LLaMA-Factory | A WebUI for Efficient Fine-Tuning of 100+ LLMs (ACL 2024) | https://github.com/hiyouga/LLaMA-Factory | AI and Machine Learning, LLM Tools |
 | restic | Fast, secure, efficient backup program | https://github.com/restic/restic | System Management |
 | mistral.rs | Blazingly fast LLM inference. | https://github.com/EricLBuehler/mistral.rs | AI and Machine Learning, LLM Tools |
